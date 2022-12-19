@@ -13,7 +13,7 @@ You just call the function .parse and input NIK number in the parameter, then yo
  
   </tr>
 
-# Example Code:
+## Example Code:
 ```dart
 NIKModel result = await NIKValidator.instance.parse(nik: nik);
 /// When nik is valid
@@ -32,7 +32,7 @@ if (result.valid) {
 }
 ```
 
-# About Me
+## About Me
 Visit my youtube : [https://www.youtube.com/@block7code](https://www.youtube.com/@block7code)
 
 Follow my Github : [GitHub followers](https://github.com/block7code?tab=followers)
