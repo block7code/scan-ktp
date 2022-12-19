@@ -6,6 +6,13 @@ You just call the function .parse and input NIK number in the parameter, then yo
 
 <img src="https://i.ibb.co/B4716Rt/IMG-20210220-184403.jpg" height="480px">
 
+## Demo
+<table style={border:"none"}><tr>
+  <tr>
+    <td><img src="./screenshots/ss.png" height="480px"></td>
+ 
+  </tr>
+
 # Example Code:
 ```dart
 NIKModel result = await NIKValidator.instance.parse(nik: nik);
