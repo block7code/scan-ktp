@@ -1,7 +1,7 @@
 
-# nik_validator
+# Scan KTP
 
-NIK Validator is a package to converting Indonesian Identity Card Number into useful informations.
+NIK Scan is a package to converting Indonesian Identity Card Number into useful informations.
 You just call the function .parse and input NIK number in the parameter, then you will get the informations, without internet connection (offline)
 
 <img src="https://i.ibb.co/B4716Rt/IMG-20210220-184403.jpg" height="480px">
@@ -30,6 +30,4 @@ Visit my youtube : [https://www.youtube.com/@block7code](https://www.youtube.com
 
 Follow my Github : [GitHub followers](https://github.com/block7code?tab=followers)
 
-# Clone From
-From Github : [yusriltakeuchi](https://github.com/yusriltakeuchi)
 
