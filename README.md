@@ -8,7 +8,7 @@ You just call the function .parse and input NIK number in the parameter, then yo
 ## Demo
 <table style={border:"none"}>
   <tr>
-    <td><img src="./screenshots/ss.png" height="480px"></td>
+    <td><img src="./screenshots/ss.png" height="380px"></td>
   </tr>
   </table>
 
