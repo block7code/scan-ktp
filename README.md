@@ -4,14 +4,14 @@
 NIK Scan is a package to converting Indonesian Identity Card Number into useful informations.
 You just call the function .parse and input NIK number in the parameter, then you will get the informations, without internet connection (offline)
 
-<img src="https://i.ibb.co/B4716Rt/IMG-20210220-184403.jpg" height="480px">
 
 ## Demo
-<table style={border:"none"}><tr>
+<table style={border:"none"}>
   <tr>
     <td><img src="./screenshots/ss.png" height="480px"></td>
- 
   </tr>
+  </table>
+
 
 ## Example Code:
 ```dart
